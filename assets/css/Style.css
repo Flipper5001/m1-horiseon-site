@@ -103,10 +103,3 @@ body{
 .footer h2 {
     font-size: 20px;
 }
-
-@media screen and (max-width: 1050px) {
-    .search-engine-optimization, .online-reputation-management, .social-media-marketing {
-        height: 32%;
-        align-items: center;
-    }
-}
